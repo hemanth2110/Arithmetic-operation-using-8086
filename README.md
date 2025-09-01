@@ -70,7 +70,8 @@ END
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="621" height="403" alt="add" src="https://github.com/user-attachments/assets/92b7b1a4-cf1d-453e-ac13-45751b3051ec" />
 
-<img width="790" height="310" alt="Screenshot 2025-09-01 212154" src="https://github.com/user-attachments/assets/1581c5b0-1fca-4d8f-b32f-6e0be15a2e01" /><img width="795" height="232" alt="Screenshot 2025-09-01 211945" src="https://github.com/user-attachments/assets/6257b1d1-0377-4b7b-846a-696d48d0cb24" />
+<img width="790" height="256" alt="Screenshot 2025-09-01 212154" src="https://github.com/user-attachments/assets/06f49145-85f3-4126-86b9-23d15620965c" /><img width="795" height="232" alt="Screenshot 2025-09-01 211945" src="https://github.com/user-attachments/assets/6599514f-5cb6-429a-bb91-fb4c0d1b346e" />
+
 
 
 ## 2. SUBTRACTION
