@@ -21,11 +21,9 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
+   
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
 
 #### Program
 
@@ -83,9 +81,7 @@ END
 5. Store result.
 
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 ```
@@ -134,10 +130,7 @@ END
 4. Store result.
 
 ##FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -189,7 +182,6 @@ END
 
    ## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
