@@ -54,6 +54,7 @@ END
 ```
 
 #### Output Table
+<img width="621" height="403" alt="add" src="https://github.com/user-attachments/assets/92b7b1a4-cf1d-453e-ac13-45751b3051ec" />
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
@@ -66,6 +67,11 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="621" height="403" alt="add" src="https://github.com/user-attachments/assets/92b7b1a4-cf1d-453e-ac13-45751b3051ec" />
+
+<img width="635" height="402" alt="Screenshot 2025-09-01 202347" src="https://github.com/user-attachments/assets/a87e8d88-f8b9-4e55-826d-e02328ce0099" />
+
+
 
 ## 2. SUBTRACTION
 
