@@ -3,15 +3,11 @@
 
 ## AIM
 
-To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-
----
+To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor
 
 ## APPARATUS REQUIRED
 
 * Personal Computer with MASM Software
-
----
 
 ## 1. ADDITION
 
